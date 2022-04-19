@@ -19,7 +19,7 @@ local QuestFolder = DataFolder:WaitForChild("Quests")
 local ClientStand = DataFolder:WaitForChild("Stand")
 local ClientAttribute = DataFolder:WaitForChild("Attri")
 
-local Window = Library:CreateWindow("Noob Upright")
+local Window = Library:CreateWindow("Idiots Upright")
 
 local MainFolder = Window:AddFolder("Main")
 local StandFolder = Window:AddFolder("Stand Farm")
@@ -425,7 +425,7 @@ for Index = 1, 3 do
 end
 
 --Credits Folder
-CreditsFolder:AddLabel({text = "Script: Kaiden#2444"})
+CreditsFolder:AddLabel({text = "Script fix by me lmao"})
 CreditsFolder:AddLabel({text = "UI Library: Jan"})
 
 --Load UI
